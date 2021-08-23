@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mophan
 - 👀 I’m interested in data science, digital marketing, drawing, content creation
 - 🌱 I’m currently learning SQL, Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a data mining project using Python
 - 📫 How to reach me: email me at helen.dreamsbigdreams@gmail.com
 
 <!---
