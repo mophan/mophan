@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mophan
 - 👀 I’m interested in data science, UI-UX design, digital marketing, digital drawing, content creation
-- 🌱 I’m currently learning SQL, Python
+- 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on a data mining project using Python
 - 📫 How to reach me: email me at helen.dreamsbigdreams@gmail.com
 
