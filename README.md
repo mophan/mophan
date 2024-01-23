@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @mophan (Helen)
+- 👋 Hello, I’m @mophan
 - 🌱 Languages: R, Python, SQL
 - 📫 Email: mo.phanquynh@gmail.com
 
