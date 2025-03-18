@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @mophan
 - 🌱 Languages: R, Python, SQL
-- 📫 Email: mo.phanquynh@gmail.com
+- 📫 Email: annie.mo.phan@gmail.com
 
 <!---
 mophan/mophan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
