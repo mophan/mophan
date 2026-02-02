@@ -1,17 +1,27 @@
-## Hi, I'm Annie 👋
-Data Analyst → AI / Product-focused ML | Python, SQL, ML
+## Hi, I'm Annie 👋  
+**Data Analyst → AI / Product-focused Analytics | Python • SQL • Tableau**
 
-🔍 I build data-driven products that turn messy data into decisions  
-🎓 MS in Artificial Intelligence (SJSU)  
-📊 Background in Marketing Analytics & CRM
+🔍 I turn messy data into clear insights and business decisions through analytics, experimentation, and ML.  
+🎓 MS in Artificial Intelligence @ San José State University  
+📊 Background in Marketing Analytics & CRM (lifecycle + growth)
 
-### 🔥 Featured Projects
-- 🚗 EV Adoption Analysis (Python, Pandas, Matplotlib)
-- 🧠 Customer Churn Prediction (ML, XGBoost)
-- 🤖 AI Product Case Study: LLM-powered insights
+---
 
-### 🧰 Tech Stack
-Python • SQL • Pandas • Scikit-learn • PyTorch • Tableau • dbt
+## 🔥 Featured Projects
+- 🚗 **[Electric Vehicle Adoption Analysis](https://github.com/mophan/electric-vehicle-adoption-analysis)**  
+  Exploratory analysis of EV adoption trends in Washington State (Python, Pandas, Matplotlib)
+
+- 🚲 **[Cyclistic Bike Share Analysis](https://github.com/mophan/proj-cyclistic-bike-share-analysis)**  
+  Capstone case study using R + R Markdown with insights and recommendations to convert casual riders into members
+
+## 🚧 In Progress
+- 🧠 Customer Churn Prediction — building end-to-end ML workflow (coming soon)
+- 🤖 LLM Product Case Study — exploring LLM-powered insights + product thinking (coming soon)
+
+---
+
+## 🧰 Tech Stack
+Python • SQL • Pandas • scikit-learn • Tableau • R • R Markdown • PyTorch • dbt
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mophan/) | Portfolio | [Email](mailto:anniephan@gmail.com)
 
