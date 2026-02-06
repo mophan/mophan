@@ -1,5 +1,5 @@
 ## Hi, I'm Annie 👋  
-**Data Analyst → AI / Product-focused Analytics | Python • SQL • Tableau**
+**Data Analyst → Data & Analytics Engineering (AI-focused) | Python • SQL • Tableau • ML Foundations**
 
 🔍 I turn messy data into clear insights and business decisions through analytics, experimentation, and ML.  
 🎓 MS in Artificial Intelligence @ San José State University  
