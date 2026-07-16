@@ -23,7 +23,7 @@
 ## 🧰 Tech Stack
 Python • SQL • PyTorch • scikit-learn • Tableau • R • R Markdown • dbt
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mophan/) | Portfolio | [Email](mailto:anniephan@gmail.com)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/mophan/) | Portfolio | [Email](mailto:anna.mo.phan@gmail.com)
 
 <!---
 mophan/mophan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
