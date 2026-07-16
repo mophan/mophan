@@ -1,4 +1,4 @@
-## Hi, I'm Anna Phan 👋  
+## Hi, I'm Anna 👋  
 **Data Analyst → Data & Analytics Engineering (AI-focused) | Python • SQL • Tableau • ML Foundations**
 
 🔍 I turn messy data into clear insights and business decisions through analytics, experimentation, and ML.  
