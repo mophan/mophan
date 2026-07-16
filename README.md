@@ -21,7 +21,7 @@
 ---
 
 ## 🧰 Tech Stack
-Python • SQL • Pandas • scikit-learn • Tableau • R • R Markdown • PyTorch • dbt
+Python • SQL • PyTorch • scikit-learn • Tableau • R • R Markdown • dbt
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mophan/) | Portfolio | [Email](mailto:anniephan@gmail.com)
 
